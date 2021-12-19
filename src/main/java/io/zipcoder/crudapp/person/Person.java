@@ -1,4 +1,4 @@
-package person;
+package io.zipcoder.crudapp.person;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
